@@ -1,0 +1,3 @@
+[submodule "fretron-common"]
+	path = fretron-common
+	url = https://github.com/SunilDhaker/fretron-common/
